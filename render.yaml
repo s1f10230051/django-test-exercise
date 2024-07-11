@@ -6,7 +6,7 @@ databases:
 
 services:
   - type: web
-    name: SW-ecercise-web
+    name: SW-exercise-web
     env: python
     plan: free
     branch: main
