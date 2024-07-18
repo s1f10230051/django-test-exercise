@@ -5,6 +5,11 @@ p {
 }
 
 h1 {
-    color:brown
+    background-color: azure;
+    color:brown;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
+h2 {
+    color:aquamarine
+}
